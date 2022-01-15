@@ -4,6 +4,7 @@ public class Practice {
          //davut
         //davut2
         //davut3
+        //turgay sali
     }
 
 }
