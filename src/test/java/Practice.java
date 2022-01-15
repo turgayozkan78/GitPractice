@@ -4,7 +4,7 @@ public class Practice {
          //davut
         //davut2
         //davut3
-        //deneme sali kodlari---davut
+        // tamam sildim
     }
 
 }
